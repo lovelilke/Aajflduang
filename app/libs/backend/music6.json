@@ -1,0 +1,25 @@
+{  
+    "data":{
+        "cookie":"1",
+        "versionCode":1101,
+        "versionName":"1.0.0",
+        "showad":true,
+        "ytshow":true,
+        "Random":3,
+        "adRandom":1,
+        "updateInfo":"com.musix.freedwonload.gfrrf",
+        "url":"https://play.google.com/store/apps/details?id=com.musix.freedwonload.gfrrf",
+        "update":false,
+        "forceUpdate":false,
+        "isOnStore":true,
+        "kwcookie":"UL1GM4745L",
+        "getHot":2,
+        "vk":1
+    },
+    "path":"app-debug.apk",
+    "ads":{
+         "app":"",  
+           "id":""
+    }
+   
+}

@@ -1,0 +1,22 @@
+{  
+    "data":{
+        "versionCode":6,
+        "versionName":"1.0.2",
+        "showad":true,
+        "Random":5,
+        "adRandom":2,
+        "updateInfo":"com.localplayer.music.yyt",
+        "online":"com.musicpro.downloader.qswr",
+        "url":"https://play.google.com/store/apps/details?id=com.localplayer.music.yyt",
+        "update":false,
+        "forceUpdate":false,
+        "isOnStore":true
+       
+    },
+    "path":"app-debug.apk",
+    "ads":{
+         "app":"",  
+           "id":""
+    }
+   
+}

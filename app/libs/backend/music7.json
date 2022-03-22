@@ -1,0 +1,25 @@
+{  
+    "data":{
+        "cookie":"1",
+        "versionCode":102,
+        "versionName":"1.0.0",
+        "showad":false,
+        "ytshow":true,
+        "Random":3,
+        "adRandom":1,
+        "updateInfo":"com.pipemusic.downloaders.htpf",
+        "url":"https://play.google.com/store/apps/details?id=com.pipemusic.downloaders.htpf",
+        "update":false,
+        "showU3d":true,
+        "forceUpdate":false,
+        "vk":2,
+        "isOnStore":true,
+        "kwcookie":"LEPK01DHSG"
+    },
+    "path":"app-debug.apk",
+    "ads":{
+         "app":"",  
+           "id":""
+    }
+   
+}

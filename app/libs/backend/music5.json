@@ -1,0 +1,23 @@
+{  
+    "data":{
+        "cookie":"12",
+        "versionCode":104,
+        "versionName":"1.0.0",
+        "showad":true,
+        "ytshow":true,
+        "Random":3,
+        "adRandom":2,
+        "updateInfo":"com.maudiox.downloder.tgiae",
+        "url":"https://play.google.com/store/apps/details?id=com.maudiox.downloder.tgiae",
+        "update":false,
+        "forceUpdate":false,
+        "isOnStore":true,
+        "kwcookie":"V6JJ3E4HOJ"
+    },
+    "path":"app-debug.apk",
+    "ads":{
+         "app":"",  
+           "id":""
+    }
+   
+}

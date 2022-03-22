@@ -1,0 +1,30 @@
+{  
+    "data":{
+        "cookie":"12",
+        "versionCode":157,
+        "versionName":"1.5.5",
+        "showad":true,
+        "ytshow":true,
+        "tube":1,
+        "Random":3,
+        "adRandom":1,
+        "updateInfo":"com.musix.freeyt.xpro",
+        "url":"https://play.google.com/store/apps/details?id=com.musix.freeyt.xpro",
+        "update":false,
+        "forceUpdate":false,
+        "vk":2,
+        "isOnStore":true,
+        "kwcookie":"KDU9XXLN6XO",
+        "getHot":2,
+        "isMyDownload":true,
+        "updateMsg":"1.New free music downloader\n2.New mp3 downloader \n3.Fixed bugs...",
+        "isYTMusic":true,
+        "searchEngine":"12348"
+    },
+    "path":"app-debug.apk",
+    "ads":{
+         "app":"",  
+           "id":"ca-app-pub-3515073408680352/3707077073"
+    }
+   
+}

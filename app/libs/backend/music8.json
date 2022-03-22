@@ -1,0 +1,25 @@
+{  
+    "data":{
+        "cookie":"1",
+        "versionCode":102,
+        "versionName":"1.1.4",
+        "showad":true,
+        "ytshow":true,
+        "Random":3,
+        "adRandom":1,
+        "updateInfo":"com.freesongs.ppits",
+        "url":"https://play.google.com/store/apps/details?id=com.freesongs.ppits",
+        "update":false,
+        "forceUpdate":false,
+        "isOnStore":true,
+        "kwcookie":"J9I4XAAMVAS",
+        "getHot":2,
+        "vk":1
+    },
+    "path":"app-debug.apk",
+    "ads":{
+         "app":"",  
+           "id":""
+    }
+   
+}
